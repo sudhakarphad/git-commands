@@ -1,5 +1,16 @@
-to add all files from folder: git add .
+to add all files from folder:
 
+git add .
+
+to commit individual files:
+
+git commit commands.txt -m"some text"
+
+to get remote origin status:
+git remote -v
+
+set new remote url:
+git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 
 // git intial commands from github.
 git init
