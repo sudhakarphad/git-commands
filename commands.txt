@@ -1,12 +1,8 @@
- Volume in drive C has no label.
- Volume Serial Number is 06D8-4022
+to add all files from folder: git add .
 
- Directory of C:\Users\sudhakar.p\Desktop\sudhakar
 
-01/11/2018  04:39 PM    <DIR>          .
-01/11/2018  04:39 PM    <DIR>          ..
-01/11/2018  04:39 PM                 0 commands.txt
-01/11/2018  04:37 PM    <DIR>          git-commands
-01/11/2018  04:27 PM                79 index.html.txt
-               2 File(s)             79 bytes
-               3 Dir(s)  21,963,874,304 bytes free
+// git intial commands from github.
+git init
+git commit -m "first commit"
+git remote add origin https://github.com/sudhakarphad/git-commands.git
+git push -u origin master
